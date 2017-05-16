@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Registrar</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="password_confirmation">confirm password</string>
+    <string name="invalid_credentials_message">invalid credentials!</string>
+    <string name="signup_new_user">sign up new user</string>
+    <string name="login">login</string>
+    <string name="signup">signup</string>
+    <string name="logout">logout</string>
+    <string name="email_password_length_message">email 6+ characters, password 4+ characters!</string>
+    <string name="email_in_use_message">this email is in use, try another one</string>
+    <string name="insert_new_user_success">new user was inserted</string>
+    <string name="insert_new_user_fail">new user was not inserted!</string>
+    <string name="password_confirmation_mismatch">password confirmation mismatch!</string>
+</resources>

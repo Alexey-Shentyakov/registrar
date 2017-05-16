@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registrar</string>
+    <string name="email">имейл</string>
+    <string name="email_in_use_message">этот имейл уже зарегистрирован, используйте другой</string>
+    <string name="email_password_length_message">имейл 6+ символов, пароль 4+ символов!</string>
+    <string name="insert_new_user_fail">новый пользователь не был добавлен!</string>
+    <string name="insert_new_user_success">новый пользователь добавлен</string>
+    <string name="invalid_credentials_message">неверный логин/пароль!</string>
+    <string name="login">войти</string>
+    <string name="logout">выйти</string>
+    <string name="password">пароль</string>
+    <string name="password_confirmation">подтверждение пароля</string>
+    <string name="password_confirmation_mismatch">пароль и подтверждение не совпадают!</string>
+    <string name="signup">регистрация</string>
+    <string name="signup_new_user">зарегистрировать нового пользователя</string>
+</resources>
